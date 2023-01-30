@@ -1,3 +1,11 @@
+/*
+Programmer: Isaac Guzman
+Program Name: Pi.java
+Date: 01/20/2023
+Version: 1.0
+This finds out how many times each number appears in pi.
+*/
+
 import java.util.Scanner;
 public class Test
 {
